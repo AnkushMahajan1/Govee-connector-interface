@@ -17,3 +17,4 @@ public class RequestAcceptor {
     }
 
 }
+https://developer-api.govee.com/v1/devices/
